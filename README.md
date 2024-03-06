@@ -32,4 +32,6 @@ Perangkat ini dibuat untuk mengontrol 2 lampu led melalui web server modul esp82
 - Kabel Micro USB
 
 **Rangkaian :**
+
 ![alt text](https://github.com/DH1YA/-posttest1-praktikum-iot-unmul-2024/blob/main/Skematik.png)
+![alt text](https://github.com/DH1YA/-posttest1-praktikum-iot-unmul-2024/blob/main/WhatsApp%20Image%202024-03-06%20at%2014.53.14_420d5436.jpg)
